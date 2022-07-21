@@ -1,3 +1,10 @@
+---
+title: BMS list and software version
+author: c
+date: 2022-07-21
+category: Jekyll
+layout: post
+---
 ## 24V
 ### ELI90_TWO_LPF5.1
 - 12.2.2
