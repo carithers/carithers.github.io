@@ -158,6 +158,11 @@ The effect can be previewed from
 
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
 
+## 容量计算策略
+
+循环计算衰减 2400 -> 20%
+
+
 ## License
 
 This work is open sourced under the Apache License, Version 2.0.
